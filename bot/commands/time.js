@@ -1,4 +1,6 @@
-//exports.run = (client, message, args) => {
-//    var d = new Date(day, hours, minutes, seconds);
-//    message.channel.send(d).catch(console.error);
-//}
+exports.run = (client, message, args) => {
+    var time = new Date().toTimeString();
+    var res = time.split(" ");
+   message.channel.send(res[0]).catch(console.error);
+   console.log(new Date());
+}
