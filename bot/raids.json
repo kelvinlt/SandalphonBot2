@@ -1,1 +1,43 @@
-[{"nombre":"<@226480635647229953>","bosses":[{"Boss":"tiamat","n":3,"h":3,"o":3},{"Boss":"leviatan","n":3,"h":3,"o":3},{"Boss":"Ygdrasil","n":3,"h":3,"o":3},{"Boss":"Colosus","n":3,"h":3,"o":3},{"Boss":"Celeste","n":3,"h":3,"o":3},{"Boss":"Chevalier","n":3,"h":3,"o":3}]}]
+[
+  {
+    "nombre": "<@226480635647229953>",
+    "bosses": [
+      {
+        "Boss": "tiamat",
+        "n": 3,
+        "h": 3,
+        "o": 3
+      },
+      {
+        "Boss": "leviatan",
+        "n": 3,
+        "h": 3,
+        "o": 3
+      },
+      {
+        "Boss": "Ygdrasil",
+        "n": 3,
+        "h": 3,
+        "o": 3
+      },
+      {
+        "Boss": "Colosus",
+        "n": 3,
+        "h": 3,
+        "o": 3
+      },
+      {
+        "Boss": "Celeste",
+        "n": 3,
+        "h": 3,
+        "o": 3
+      },
+      {
+        "Boss": "Chevalier",
+        "n": 3,
+        "h": 3,
+        "o": 3
+      }
+    ]
+  }
+]
